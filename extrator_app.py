@@ -13,7 +13,7 @@ padrao = re.compile(r"(\d+)\s+(\d{3}-\d\s*/\s*\d{5}-?\d*)\s+(.+?)\s+([\d.]+,\d{2
 
 # Configuração da página
 st.set_page_config(page_title="Extrator de PDF para Excel", layout="wide")
-st.title("📄 Extrator de Extrato Bancário (PDF → Excel)")
+st.title("📄 Extrator de Listagem Bancária (PDF → Excel)")
 
 # Upload de múltiplos PDFs
 arquivos_pdf = st.file_uploader(
