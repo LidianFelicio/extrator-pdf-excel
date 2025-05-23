@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Extrator de Extratos Bancários (PDF → Excel)
 
 Este app feito com Streamlit permite:
@@ -26,3 +27,7 @@ pip install -r requirements.txt
 streamlit run extrator_app.py
 
 Pressione Ctrl + S para salvar
+=======
+# extrator-pdf-excel
+Extração e empilhamento de dados do PDF extrato Bradesco para Excel
+>>>>>>> 8d1b6a04d8c2bf8991bb7919245a0a2023ca38a0
