@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 streamlit run extrator_app.py
 
-Pressione Ctrl + S para salvar
+- Pressione Ctrl + S para salvar
 =======
 # extrator-pdf-excel
 Extração e empilhamento de dados do PDF extrato Bradesco para Excel
